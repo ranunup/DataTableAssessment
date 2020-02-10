@@ -3,7 +3,7 @@
 To execute the project kindly follow below steps:
 
 Install Apache Maven, my version is 3.6.3.
-  - Navigate to the root of the project execute the following commands:
+  - Navigate to the root of the project and execute the following commands:
     - `mvn clean`
     - `mvn compile`
     - `mvn verify` for test execution.
